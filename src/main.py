@@ -1,5 +1,6 @@
 from tkinter import*
-from pygame import mixer
+from video_player import video
+from audio_player import audio
 
 root = Tk()
 

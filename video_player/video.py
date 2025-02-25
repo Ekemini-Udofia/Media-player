@@ -1,4 +1,5 @@
 #import VLC library 
+from vlc import *
 
 
 class video:

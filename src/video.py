@@ -1,7 +1,6 @@
 #import VLC library 
 from vlc import *
 
-
 class video:
     def __init__(self):
         pass

@@ -40,6 +40,7 @@ def pause_music():
 def stop_music():
     audio.stop()
 
+
 # Add buttons to control frame
 play_video_button = Button(control_frame, text="Play Video", command=play_video)
 play_video_button.pack(side=LEFT, padx=10, pady=10)
